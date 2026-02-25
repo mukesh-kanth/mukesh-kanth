@@ -42,13 +42,6 @@
 ✔️ Python Training (Beginner → Advanced)  
 ✔️ Real-time Deployment Projects  
 
----
-
-## 📊 GitHub Stats  
-
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -67,9 +60,9 @@ To grow as a Software Engineer while empowering students with industry-ready pro
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: YOUR_LINK  
-- 💻 GitHub: YOUR_LINK  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://www.linkedin.com/in/m-mukesh-kanth-983054305/
+- 💻 GitHub: https://github.com/mukesh-kanth
+- 📧 Email: mukeshkanth.official@gmail.com  
 
 ---
 
