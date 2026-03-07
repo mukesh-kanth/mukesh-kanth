@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Mukesh Kanth  
+<p align="center">
+<img src = "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_rp_50_assets&w=740&q=80" width:100; height:100;/>
+</p>
+Hi, I'm Mukesh Kanth  
 
-### 🚀 Python Trainer | Full Stack Developer | ML Enthusiast  
+### 🚀 Python Developer | Full Stack Developer | ML Enthusiast  
 
 ---
 
